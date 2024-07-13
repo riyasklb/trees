@@ -44,7 +44,7 @@ binearyrechelper(List list, int target, int startidx, int endidx) {
 }
 
 void main() {
-  List list = [1, 2, 3, 4, 5, 6, 7];
+  List list = [8, 2, 3, 4, 5, 6, 7];
   print(list);
   print('hlo world');
   print(binaryrec(list, 2 ));
